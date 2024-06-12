@@ -1,24 +1,36 @@
-#include<reg51.h>
-void DELAY(void);
+Objective:
+The objective of this program is to continuously toggle the pattern on Port 1 (P1) between 0x55 and 0xAA (binary 01010101 
+and 10101010, respectively) using a delay created by the 8051's Timer 0. The program demonstrates basic timer-based delay
+implementation and port manipulation on an 8051 microcontroller.
+Code:
+#include <reg51.h>   // Include header file for 8051 microcontroller definitions
+
+// Function prototype for DELAY
+void DELAY(void);    // Declare the DELAY function, which will implement the timer-based delay
+
+// Main function
 void main(void)
 {
-	while(1)
-	{
-	P1 = 0x55;
-	DELAY();
-	P1 = 0xAA;
-	DELAY();
-	}
+    while(1)         // Infinite loop to run continuously
+    {
+        P1 = 0x55;   // Set Port 1 to 0x55 (binary 01010101)
+        DELAY();     // Call the DELAY function to wait for a specific time
+
+        P1 = 0xAA;   // Set Port 1 to 0xAA (binary 10101010)
+        DELAY();     // Call the DELAY function to wait for a specific time
+    }
 }
 
-
+// Delay function definition
 void DELAY(void)
 {
-	TMOD =0x01;
-	TH0 = 0xff;
-	TL0 = 0xff;
-	TR0=1;
-	while(TF0 ==0);
-	TR0 = 0;
-	TF0 =0;
-	}
+    TMOD = 0x01;     // Set Timer 0 in Mode 1 (16-bit timer mode)
+    TH0 = 0xFF;      // Load the high byte of Timer 0 with 0xFF
+    TL0 = 0xFF;      // Load the low byte of Timer 0 with 0xFF
+    TR0 = 1;         // Start Timer 0 by setting the TR0 (Timer Run) bit
+
+    while(TF0 == 0); // Wait until the Timer 0 overflow flag (TF0) is set
+
+    TR0 = 0;         // Stop Timer 0 by clearing the TR0 bit
+    TF0 = 0;         // Clear the Timer 0 overflow flag (TF0) for the next delay cycle
+}
