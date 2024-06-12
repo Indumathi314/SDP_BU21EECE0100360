@@ -1,3 +1,5 @@
+**PCB WORKSHOP**
+
 **Objective**
 
 The objective of this workshop is to design, simulate, and implement basic electronic circuits using both traditional components and microcontroller platforms. Specifically, the workshop aims to:
