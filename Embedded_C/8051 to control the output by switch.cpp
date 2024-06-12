@@ -1,4 +1,4 @@
-Objective
+Objective:
 The program is designed for an 8051 microcontroller to read the states of two switches and set the output on Port 1 (P1) based on the following conditions:
 
 Both switches off (sw1 and sw2 low): Clear all bits on P1.
