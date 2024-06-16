@@ -1,6 +1,6 @@
-**\## Implementing IV Characteristics of NMOS Using Cadence Tool**
+**\ Implementing IV Characteristics of NMOS Using Cadence Tool**
 
-\### \*\*Objectives:\*\*
+\ \*\*Objectives:\*\*
 
 1\. Understand the process of setting up a Cadence environment.
 
@@ -10,7 +10,7 @@
 
 4\. Gain familiarity with various Cadence tools and their functionalities.
 
-\### \*\*Key Learnings:\*\*
+\ \*\*Key Learnings:\*\*
 
 1\. Library creation and management in Cadence.
 
@@ -20,9 +20,9 @@
 
 4\. Using ADE L for detailed simulation and analysis.
 
-**\## Implementing IV Characteristics of CMOS Using Cadence Tool**
+**\ Implementing IV Characteristics of CMOS Using Cadence Tool**
 
-\### \*\*Objectives:\*\*
+\ \*\*Objectives:\*\*
 
 1\. Understand the process of setting up a Cadence environment.
 
@@ -32,7 +32,7 @@
 
 4\. Gain familiarity with various Cadence tools and their functionalities.
 
-\### \*\*Key Learnings:\*\*
+\ \*\*Key Learnings:\*\*
 
 1\. Library creation and management in Cadence.
 
@@ -42,9 +42,9 @@
 
 4\. Using ADE L for detailed simulation and analysis.
 
-**\## Implementing Schematic and DC Analysis of a Resistive Voltage Divider Using Cadence Tool**
+**\ Implementing Schematic and DC Analysis of a Resistive Voltage Divider Using Cadence Tool**
 
-\### \*\*Objectives:\*\*
+\ \*\*Objectives:\*\*
 
 1\. Understand the process of setting up a Cadence environment.
 
@@ -54,7 +54,7 @@
 
 4\. Gain familiarity with various Cadence tools and their functionalities.
 
-\### \*\*Key Learnings:\*\*
+\ \*\*Key Learnings:\*\*
 
 1\. Library creation and management in Cadence.
 
@@ -64,9 +64,9 @@
 
 4\. Using ADE L for detailed simulation and analysis.
 
-**\## Schematic and Transient Analysis of a First Order RC Circuit Using Cadence**
+**\ Schematic and Transient Analysis of a First Order RC Circuit Using Cadence**
 
-\### \*\*Objectives:\*\*
+\ \*\*Objectives:\*\*
 
 1\. Understand the process of setting up a Cadence environment.
 
@@ -76,7 +76,7 @@
 
 4\. Gain familiarity with various Cadence tools and their functionalities.
 
-\### \*\*Key Learnings:\*\*
+\ \*\*Key Learnings:\*\*
 
 1\. Library creation and management in Cadence.
 
@@ -86,9 +86,9 @@
 
 4\. Using ADE L for detailed simulation and analysis.
 
-**\## Steps to Implement Study of Operating Regions of a MOSFET Using Cadence Tool**
+**\ Steps to Implement Study of Operating Regions of a MOSFET Using Cadence Tool**
 
-\### \*\*Objectives:\*\*
+\ \*\*Objectives:\*\*
 
 1\. Understand the process of setting up a Cadence environment.
 
@@ -98,7 +98,7 @@
 
 4\. Gain familiarity with various Cadence tools and their functionalities.
 
-\### \*\*Key Learnings:\*\*
+\ \*\*Key Learnings:\*\*
 
 1\. Library creation and management in Cadence.
 
@@ -108,9 +108,9 @@
 
 4\. Using ADE L for detailed simulation and analysis.
 
-**\## Schematic Symbol and Analog Simulation of CMOS Inverter Using Cadence Tool**
+**\ Schematic Symbol and Analog Simulation of CMOS Inverter Using Cadence Tool**
 
-\### \*\*Objectives:\*\*
+\ \*\*Objectives:\*\*
 
 1\. Understand the process of setting up a Cadence environment.
 
@@ -120,7 +120,7 @@
 
 4\. Gain familiarity with various Cadence tools and their functionalities.
 
-\### \*\*Key Learnings:\*\*
+\ \*\*Key Learnings:\*\*
 
 1\. Library creation and management in Cadence.
 
@@ -130,9 +130,9 @@
 
 4\. Using ADE L for detailed simulation and analysis.
 
-**\### Schematic Layout, DRC, and LVS of CMOS Inverter**
+**\ Schematic Layout, DRC, and LVS of CMOS Inverter**
 
-\#### Objectives
+\ Objectives
 
 1\. \*\*Understand CMOS Inverter Design:\*\*
 
@@ -146,7 +146,7 @@
 
 \- Ensure design correctness through Design Rule Check (DRC) and Layout Versus Schematic (LVS) verification processes.
 
-\#### Key Learnings
+\ Key Learnings
 
 1\. \*\*Setting Up the Cadence Environment:\*\*
 
@@ -176,7 +176,7 @@
 
 \- Learn to create input and output pins in the layout and ensure proper naming and placement, which is critical for successful simulation and verification.
 
-**\### Schematic Symbol and Simulation of NAND and XOR Gates and 1 Bit Full Adder**
+**\ Schematic Symbol and Simulation of NAND and XOR Gates and 1 Bit Full Adder**
 
 \#### Objectives
 
@@ -200,7 +200,7 @@
 
 \- Learn to interpret simulation results to validate the logical operations and timing characteristics of NAND and XOR gates.
 
-\#### Key Learnings
+\ Key Learnings
 
 1\. \*\*Environment Setup in Cadence Virtuoso:\*\*
 
@@ -244,9 +244,9 @@
 
 \- Use DRC (Design Rule Check) and LVS (Layout Versus Schematic) techniques to ensure design correctness.
 
-**\### Design and Simulation of 2-AND Gate Using Pass Transistors in Cadence Tool**
+**\ Design and Simulation of 2-AND Gate Using Pass Transistors in Cadence Tool**
 
-\#### Objectives
+\ Objectives
 
 1\. \*\*Understanding Pass Transistor Logic:\*\*
 
@@ -268,7 +268,7 @@
 
 \- Analyze simulation results to ensure correct logical operation and performance metrics such as voltage levels and current flow.
 
-\#### Key Learnings
+\ Key Learnings
 
 \- \*\*Schematic Design:\*\* Understanding how to create a schematic layout for a digital logic circuit using pass transistors and essential components.
 
