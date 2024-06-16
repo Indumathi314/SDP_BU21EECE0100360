@@ -132,7 +132,7 @@
 
 **\ Schematic Layout, DRC, and LVS of CMOS Inverter**
 
-\ Objectives
+\ \*\*Objectives:\*\*
 
 1\. \*\*Understand CMOS Inverter Design:\*\*
 
@@ -146,7 +146,7 @@
 
 \- Ensure design correctness through Design Rule Check (DRC) and Layout Versus Schematic (LVS) verification processes.
 
-\ Key Learnings
+\ \*\*Key Learnings:\*\*
 
 1\. \*\*Setting Up the Cadence Environment:\*\*
 
@@ -178,7 +178,7 @@
 
 **\ Schematic Symbol and Simulation of NAND and XOR Gates and 1 Bit Full Adder**
 
-\#### Objectives
+\ \*\*Objectives:\*\*
 
 1\. \*\*Learn Cadence Virtuoso Basics:\*\*
 
@@ -200,7 +200,7 @@
 
 \- Learn to interpret simulation results to validate the logical operations and timing characteristics of NAND and XOR gates.
 
-\ Key Learnings
+\ \*\*Key Learnings:\*\*
 
 1\. \*\*Environment Setup in Cadence Virtuoso:\*\*
 
@@ -246,7 +246,7 @@
 
 **\ Design and Simulation of 2-AND Gate Using Pass Transistors in Cadence Tool**
 
-\ Objectives
+\ \*\*Objectives:\*\*
 
 1\. \*\*Understanding Pass Transistor Logic:\*\*
 
@@ -268,7 +268,7 @@
 
 \- Analyze simulation results to ensure correct logical operation and performance metrics such as voltage levels and current flow.
 
-\ Key Learnings
+\ \*\*Key Learnings:\*\*
 
 \- \*\*Schematic Design:\*\* Understanding how to create a schematic layout for a digital logic circuit using pass transistors and essential components.
 
